@@ -69,7 +69,7 @@ __author__     = "Jonathan D. Lettvin"
 __copyright__  = """\
 Copyright(C) 2011 Jonathan D. Lettvin, All Rights Reserved"""
 __credits__    = [ "Jonathan D. Lettvin" ]
-__license__    = "Unknown"
+__license__    = "GPLv3"
 __version__    = "0.0.1"
 __maintainer__ = "Jonathan D. Lettvin"
 __email__      = "jlettvin@gmail.com"
